@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HariJW
 - 👀 I’m interested in Web Deveplopment
-- 🌱 I’m currently in TY B.Tech
+- 🌱 I have recently Completed my B.Tech in Computer Science
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 Feel free to contact me
+- 📫 Feel free to contact me @ harshwaychal936@gmail.com
 
 <!---
 HariJW/HariJW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
